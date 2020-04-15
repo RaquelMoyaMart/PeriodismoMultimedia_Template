@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## TOC
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,19 +9,19 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : No soy yo, es mi TOC
 
-**Autor(es)** ______________
+**Autor(es)** Raquel Moya Martín
 
-**Resumen** : _________
+**Resumen** : Documental que presenta los diferentes tipos de obsesiones más frecuentes en el TOC, a través de testimonios de personas afectadas y especialista. Busca concienciar y mostrar la aprensión e inquietud que provoca este trastorno, el cual lleva a compulsiones graves tanto físicas como mentales. 
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): La lucha más dura es contra tu mente / No es una manía más
 
-**Hashtag**  ___
+**Hashtag** : #EsMiTOC
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia** : CC BY
 
 **Fecha** : 2020
 
@@ -29,8 +29,9 @@ Univesidad de Granada
 
 
 *  :octocat: (github url) 
-* Twitter 
-* ... 
+* Página web (documental interactivo)
+* Twitter (promoción)
+* Youtube (promoción y contenido audiovisual extra)
 
 
 
@@ -46,23 +47,20 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+* Reportaje audiovisual "Tengo TOC", transmitido en el programa Objetivo Sur, de Canal Sur. El reportaje expone diferentes casos de andaluces que sufren este trastorno, además de testimonios de familiares o profesionales. 
+
+* Película "Toc, toc", un film cómico, en el que se retrata a un grupo de pacientes con TOC. La película presenta de forma sencilla y crecana al espectador una realidad de miles de personas. La trama muestra, de forma divertida, los diversos problemas que tienen estas personas debido a sus obsesiones, las cuales impiden disfrutar de un día común y corriente. 
 
 
-**Necesidad/oportunidad** 
+**Necesidad/oportunidad** : Se pretende que el dar a conocer, a través de los personajes, el día a día de las personas que sufren este trastorno, la relación con su entorno o sus complicaciones, así como los síntomas, las causas y los diagnósticos. 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta**: La necesidad de tratar los trastornos o enfermedades como tal, sin tabús y con una comunicación calra y directa para que la ciudadanía pueda conocer las distintas realidades a las que se enfrentan estos pacientes. Hay que concienciar de que el TOC no es una simple manía, no es que te moleste a la vista que dos cuadros no estén nivelados, sino que va más allá: pensamientos intrusivos y repetitivos que producen aprensión e inquietud que llevan a compulsiones graves tanto físicas como mentales.
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
+**Personas/Usuarios** : No habrá un usuario objetivo, ya que para eliminar estigmas no consideramos adecuado presentarlo solo a una franja determinada de edad, sino que se quiere dar a conocer tanto a jóvenes, como adultos y mayores. 
 
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+**Estilo de narración**    : * Documental interactivo, a través del cual se conocerá a personas afectadas y sus familiares; asociaciones; grupos de apoyo o psicólogos especializados. Twitter se utilizará para recoger testimonios y buscar el feedback con los usuarios, los cuales podrán contar cómo es su rutina con el trastorno. 
+
 
 
 
