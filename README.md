@@ -80,8 +80,9 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
+Encuestas a usuarios
+Clipping
+Análisis estadístico de Twitter y Youtube 
 
 
 
