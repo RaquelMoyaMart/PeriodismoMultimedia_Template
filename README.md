@@ -47,9 +47,9 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* Reportaje audiovisual "Tengo TOC", transmitido en el programa Objetivo Sur, de Canal Sur. El reportaje expone diferentes casos de andaluces que sufren este trastorno, además de testimonios de familiares o profesionales. 
+* Reportaje audiovisual "Tengo TOC", transmitido en el programa Objetivo Sur, de Canal Sur. El reportaje expone diferentes casos de andaluces que sufren este trastorno, además de testimonios de familiares o profesionales. https://www.youtube.com/watch?v=by6s8r9sC0U 
 
-* Película "Toc, toc", un film cómico, en el que se retrata a un grupo de pacientes con TOC. La película presenta de forma sencilla y crecana al espectador una realidad de miles de personas. La trama muestra, de forma divertida, los diversos problemas que tienen estas personas debido a sus obsesiones, las cuales impiden disfrutar de un día común y corriente. 
+* Película "Toc Toc" (disponible en Netflix), un film cómico, en el que se retrata a un grupo de pacientes con TOC. La película presenta de forma sencilla y crecana al espectador una realidad de miles de personas. La trama muestra, de forma divertida, los diversos problemas que tienen estas personas debido a sus obsesiones, las cuales impiden disfrutar de un día común y corriente. https://www.filmaffinity.com/es/film142470.html
 
 
 **Necesidad/oportunidad** : Se pretende que el dar a conocer, a través de los personajes, el día a día de las personas que sufren este trastorno, la relación con su entorno o sus complicaciones, así como los síntomas, las causas y los diagnósticos. 
