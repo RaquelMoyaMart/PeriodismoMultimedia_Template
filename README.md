@@ -15,7 +15,7 @@ Univesidad de Granada
 
 **Resumen** : Documental que presenta los diferentes tipos de obsesiones más frecuentes en el TOC, a través de testimonios de personas afectadas y especialista. Busca concienciar y mostrar la aprensión e inquietud que provoca este trastorno, el cual lleva a compulsiones graves tanto físicas como mentales. 
 
-**logotipo** :  ________
+**logotipo** :  
 
 **Slogan** (frase motivadora/inspiradora): La lucha más dura es contra tu mente / No es una manía más
 
