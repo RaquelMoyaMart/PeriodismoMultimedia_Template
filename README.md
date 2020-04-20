@@ -19,7 +19,7 @@ Univesidad de Granada
 
 **Slogan** (frase motivadora/inspiradora): La lucha más dura es contra tu mente / No es una manía más
 
-**Hashtag** : #EsMiTOC
+**Hashtag** : #EsMeTOC
 
 **Licencia** : CC BY
 
@@ -82,7 +82,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 Encuestas a usuarios
 Clipping
-Análisis estadístico de Twitter y Youtube 
+Análisis estadístico de las propias plataformas: Twitter y Youtube 
 
 
 
@@ -90,7 +90,9 @@ Análisis estadístico de Twitter y Youtube
 
 ### Conclusiones y trabajo futuro
 
+En el proyecto podrían participar las asociaciones de trastornos mentales y se podrían involucrar tanto pacientes como cualquier particular que esté interesado. 
 
+El proyecto podría completarse con otros trastornos y ampliarse con los testimonios de nuevos pacientes. Ademas, con la evolución constante de la ciencia, sería interesante desarrollar cómo avanzan los diferentes tipos de TOC: síntmas, posibilidad de prevención o , 
 * Grado de consecución del proyecto 
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
