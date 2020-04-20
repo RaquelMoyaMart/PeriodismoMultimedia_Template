@@ -92,11 +92,9 @@ Análisis estadístico de las propias plataformas: Twitter y Youtube
 
 En el proyecto podrían participar las asociaciones de trastornos mentales y se podrían involucrar tanto pacientes como cualquier particular que esté interesado. 
 
-El proyecto podría completarse con otros trastornos y ampliarse con los testimonios de nuevos pacientes. Ademas, con la evolución constante de la ciencia, sería interesante desarrollar cómo avanzan los diferentes tipos de TOC: síntmas, posibilidad de prevención o , 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+El proyecto podría completarse con otros trastornos y ampliarse con los testimonios de nuevos pacientes. Ademas, con la evolución constante de la ciencia, sería interesante desarrollar cómo avanzan los diferentes tipos de TOC: síntmas, posibilidad de prevención y tratamiento. 
+
+Se podría mejorar integrando la realidad virtual para realizar una experiencia inmersiva y, de esta forma, que el usuario tenga una mayor percepción de qué significa o qué supone tener un TOC. 
 
 
 Referencias y recursos: 
